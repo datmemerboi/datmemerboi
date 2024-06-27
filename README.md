@@ -6,7 +6,7 @@ I have been developing REST APIs and UI components with **Java** and **JavaScrip
 
 🏗️ I am currently working on a platform to coordinate events and festivals, which **will become public soon**!
 
-I am just looking to provide the best user experience by building intuitive web applications.
+🕸️ I strive to provide the best user experience by building intuitive web applications.
 
 🔗 If you want to see my work, check out the pinned links below.
 
