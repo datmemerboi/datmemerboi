@@ -2,7 +2,7 @@
 
 Oh, me..? I'm just a **Software engineer** here!
 
-I have been developing REST APIs and UI components with **Java** and **JavaScript**. I am proficient with React, Express, Python & Node and I am dabbling with Go at the moment!
+I have been developing REST APIs and UI components with various frameworks.
 
 🏗️ I am currently working on a platform to coordinate events and festivals, which **will become public soon**!
 
