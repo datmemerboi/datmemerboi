@@ -12,7 +12,7 @@ I have been developing REST APIs and UI components with various frameworks.
 ![langs](https://skillicons.dev/icons?i=js,ts,cs,java,py)
 
 ### Frameworks
-![fworks](https://skillicons.dev/icons?i=react%2Cdotnet%2Cnextjs%2Cspring%2Cdjango&theme=light)
+![fworks](https://skillicons.dev/icons?i=react%2Cdotnet%2Cnextjs%2Cspring%2Cdjango&theme=dark)
 
 ### Build & Test
 ![bnt](https://skillicons.dev/icons?i=webpack%2Cgradle%2Cjest&theme=dark)
