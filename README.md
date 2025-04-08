@@ -1,12 +1,28 @@
-## Hello, weary wanderer! 👋
+# Hello, weary wanderer! 👋
 
 Oh, me..? I'm just a **Software engineer** here!
 
 I have been developing REST APIs and UI components with various frameworks.
 
-🏗️ I am currently working on a platform to coordinate events and festivals, which **will become public soon**!
-
 🕸️ I strive to provide the best user experience by building intuitive web applications.
+
+## What I do best?
+
+### Languages
+![langs](https://skillicons.dev/icons?i=js,ts,cs,java,py)
+
+### Frameworks
+![fworks](https://skillicons.dev/icons?i=react%2Cdotnet%2Cnextjs%2Cspring%2Cdjango&theme=light)
+
+### Build & Test
+![bnt](https://skillicons.dev/icons?i=webpack%2Cgradle%2Cjest&theme=dark)
+
+### Cloud
+![cloud](https://skillicons.dev/icons?i=git%2Cdocker%2Cgithub%2Cazure%2Caws&theme=dark)
+
+## What the future looks like?
+
+🏗️ I am currently working on a platform to coordinate events and festivals, which **will become public soon**!
 
 🔗 If you want to see my work, check out the pinned links below.
 
