@@ -9,10 +9,10 @@ I have been developing REST APIs and UI components with various frameworks.
 ## What I do best?
 
 ### Languages
-![langs](https://skillicons.dev/icons?i=js,ts,cs,java,py)
+![langs](https://skillicons.dev/icons?i=js,ts,java,py)
 
 ### Frameworks
-![fworks](https://skillicons.dev/icons?i=react%2Cdotnet%2Cnextjs%2Cspring%2Cdjango&theme=dark)
+![fworks](https://skillicons.dev/icons?i=react%2Cnextjs%2Cspring%2Cdjango&theme=dark)
 
 ### Build & Test
 ![bnt](https://skillicons.dev/icons?i=webpack%2Cgradle%2Cjest&theme=dark)
